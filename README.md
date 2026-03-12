@@ -1,4 +1,4 @@
-[Exp1 (1).pdf](https://github.com/user-attachments/files/25268279/Exp1.1.pdf)Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
+Generative AI and Large Language Models.
 
 Experiment: Develop a comprehensive report for the following exercises:
 
