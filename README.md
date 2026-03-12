@@ -65,8 +65,5 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
-
-[Exp1 (1).pdf](https://github.com/user-attachments/files/25268308/Exp1.1.pdf)
-
 Result:
 Thus the report has been successfully made.
